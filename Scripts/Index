@@ -1,5 +1,8 @@
 ├── alpha_div_rar_compare.R
 ├── alpha_div_rarefaction.R
 ├── CommandLines_GLL-iScience.md
+├── contigs_blastx_megan.md
 ├── multi_contingencty_table_transformations_taxa.R
-└── PCA_from_CLR.R
+├── PCA_from_CLR.R
+├── reads_blastx_megan.md
+└── subseq_cdhit.md
