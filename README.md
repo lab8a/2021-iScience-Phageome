@@ -7,5 +7,24 @@ Script collection for the analysis of the phageome (paper under review).
 
 # Disclamer: All included commands and scripts were written for specific data and are not therefore warrantied to work with different sets. These were created to carry out particular analyses and were originally intended for the lab's requirements, not commercial nor distribution.
 
+Protocols are included as markdown files containing bash-compatible commands for third party program execution. R scripts are intended for different tasks and can be executed independently through Rscript.
 
-
+Protocols and Scripts:
+  
+	alpha_div_rar_compare.R
+  
+  alpha_div_rarefaction.R
+  
+  CommandLines_GLL-iScience.md
+  
+  contigs_blastx_megan.md
+  
+  multi_contingencty_table_transformations_taxa.R
+  
+  PCA_from_CLR.R
+  
+  PCoA_from_dm.R
+  
+  reads_blastx_megan.md
+  
+  subseq_cdhit.md
