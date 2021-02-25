@@ -13,18 +13,18 @@ Protocols and Scripts:
   
 	alpha_div_rar_compare.R
   
-  alpha_div_rarefaction.R
+	alpha_div_rarefaction.R
   
-  CommandLines_GLL-iScience.md
+	CommandLines_GLL-iScience.md
   
-  contigs_blastx_megan.md
+	contigs_blastx_megan.md
   
-  multi_contingencty_table_transformations_taxa.R
+	multi_contingencty_table_transformations_taxa.R
   
-  PCA_from_CLR.R
+	PCA_from_CLR.R
   
-  PCoA_from_dm.R
+	PCoA_from_dm.R
   
-  reads_blastx_megan.md
+	reads_blastx_megan.md
   
-  subseq_cdhit.md
+	subseq_cdhit.md
