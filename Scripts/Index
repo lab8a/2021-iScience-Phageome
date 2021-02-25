@@ -4,5 +4,6 @@
 ├── contigs_blastx_megan.md
 ├── multi_contingencty_table_transformations_taxa.R
 ├── PCA_from_CLR.R
+├── PCoA_from_dm.R
 ├── reads_blastx_megan.md
 └── subseq_cdhit.md
