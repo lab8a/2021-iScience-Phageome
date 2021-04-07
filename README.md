@@ -14,6 +14,8 @@ Protocols and Scripts:
 	alpha_div_rar_compare.R
   
 	alpha_div_rarefaction.R
+	
+	amplicons_16S_qiime1.md
   
 	CommandLines_GLL-iScience.md
   
