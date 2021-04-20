@@ -30,3 +30,7 @@ Protocols and Scripts:
 	reads_blastx_megan.md
   
 	subseq_cdhit.md
+	
+	reads_blastx_pvogs.md
+	
+	virsorter.md
