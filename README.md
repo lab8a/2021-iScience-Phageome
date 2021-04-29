@@ -34,3 +34,9 @@ Protocols and Scripts:
 	reads_blastx_pvogs.md
 	
 	virsorter.md
+	
+	wilcoxon.md
+	
+	kruskal-wallis.md
+	
+	spearman_corr.md
